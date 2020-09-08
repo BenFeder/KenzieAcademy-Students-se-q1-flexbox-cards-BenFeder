@@ -52,7 +52,8 @@ html {
 .cardGroup {
   /* display */
   display: flex;
-  width: 50%;
+  align-content: center;
+  width: 100%;
   border: 1px solid #cad0d2;
   border-radius: 4px;
   overflow: hidden;
